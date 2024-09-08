@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adysinghh&label=Profile%20views&color=0e75b6&style=flat" alt="adysinghh" /> </p>
 
-- 🔭 I’m currently working on [EduPost](https://play.google.com/store/apps/details?id=com.adyy.edupost)
+- 🔭 I’m currently working on TTS, Diffusion & GAN
 
-- 👯 I’m looking to collaborate on [EduPost](https://play.google.com/store/apps/details?id=com.adyy.edupost)
+- I’m looking to collaborate on TTS
 
 - 📫 How to reach me **aditya.singhh011@gmail.com**
 

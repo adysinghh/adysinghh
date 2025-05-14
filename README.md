@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adysinghh&label=Profile%20views&color=0e75b6&style=flat" alt="adysinghh" /> </p>
 
--🔭 I’m currently working on Quantum ML and GANs
+-🔭 I’m currently working on ?
 
 - 📫 How to reach me **aditya.singhh011@gmail.com**
 

@@ -11,7 +11,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-singh-9a90ba263) 
-[![x](https://x.com/AdityaS18821173) 
+[![Twitter](https://x.com/AdityaS18821173) 
 
 
 # 📊 GitHub Stats:

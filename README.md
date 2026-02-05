@@ -1,6 +1,6 @@
-# Aditya Singh 👋
 
-I build practical AI products — **LLM agents (tool-use + eval)** and **on-device ML**.
+
+Im building practical AI products — **LLM agents (tool-use + eval)** and **on-device ML**.
 
 - Currently working on agent reliability + testing harnesses • Personilisation • mobile/on-device experiences (Im quite bullish on on-device manily for B2B and some intersecting areas in B2C) • applied computer vision (VTON)
 - Interested in anything that would make life/ work experinces more efficent and intesting! retrieval systems; and higly intrested in working towards AGI (working on few parts!)!
@@ -15,3 +15,6 @@ I build practical AI products — **LLM agents (tool-use + eval)** and **on-devi
   ![](https://github-readme-streak-stats.herokuapp.com/?user=adysinghh&theme=dark&hide_border=true)
   ![](https://github-readme-stats.vercel.app/api?username=adysinghh&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 </details>
+
+> “Innovation distinguishes between a leader and a follower.” — Steve Jobs
+> “When something is important enough, you do it even if the odds are not in your favor.” — Elon Musk

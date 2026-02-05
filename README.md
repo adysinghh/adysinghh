@@ -16,5 +16,5 @@ Im building practical AI products — **LLM agents (tool-use + eval)** and **on-
   ![](https://github-readme-stats.vercel.app/api?username=adysinghh&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 </details>
 
-> “Innovation distinguishes between a leader and a follower.” — Steve Jobs
-> “When something is important enough, you do it even if the odds are not in your favor.” — Elon Musk
+> “Innovation distinguishes between a leader and a follower.” — Steve Jobs <br>
+> “When something is important enough, you do it even if the odds are not in your favor.” — Elon Musk <br>

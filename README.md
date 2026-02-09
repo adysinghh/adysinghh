@@ -8,7 +8,7 @@ Im building practical AI products - **LLM agents (tool-use + eval)** and **on-de
 **Reach:** aditya.singhh011@gmail.com  
 [LinkedIn](https://linkedin.com/in/aditya-singh-9a90ba263) • [email](aditya.singhh011@gmail.com)
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adysinghh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=adysinghh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>

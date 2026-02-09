@@ -8,13 +8,11 @@ Im building practical AI products - **LLM agents (tool-use + eval)** and **on-de
 **Reach:** aditya.singhh011@gmail.com  
 [LinkedIn](https://linkedin.com/in/aditya-singh-9a90ba263) • [email](aditya.singhh011@gmail.com)
 
-<details>
-  <summary>GitHub stats</summary>
-  <br/>
+### 📊 GitHub Stats:
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=adysinghh&theme=dark&hide_border=true)
-  ![](https://github-readme-stats.vercel.app/api?username=adysinghh&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-</details>
+![](https://github-readme-streak-stats.herokuapp.com/?user=adysinghh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=adysinghh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adysinghh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 > “Innovation distinguishes between a leader and a follower.” - Steve Jobs <br>
 > “When something is important enough, you do it even if the odds are not in your favor.” - Elon Musk <br>

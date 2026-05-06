@@ -1,6 +1,8 @@
 
 
-Im building practical AI products - **LLM agents (tool-use + eval)** and **on-device ML**.
+Building Kord and Rovo AI.
+Reserached (ing) @ MIT, Harvard, Max Planck.
+Built app pre-gpt era (in my early freshman year) which reached 5k+ downloads.
 
 - Currently working on agent reliability + testing harnesses • Personilisation • mobile/on-device experiences (Im quite bullish on on-device manily for B2B and some intersecting areas in B2C) • applied computer vision (VTON)
 - Interested in anything that would make life/ work experinces more efficent and intesting! retrieval systems, RecSys; and higly intrested in working towards AGI (working on few parts!)!

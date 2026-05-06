@@ -1,6 +1,6 @@
 
 Building Kord and Rovo AI. | 
-Reserached (ing) @ MIT, Harvard, Max Planck. | 
+Researched (ing) @ MIT, Harvard, Max Planck. | 
 Built app pre-gpt era (in my early freshman year) which reached 5k+ downloads. 
 
 - Currently working on agent reliability + testing harnesses • Personilisation • mobile/on-device experiences (Im quite bullish on on-device manily for B2B and some intersecting areas in B2C) • applied computer vision (VTON)
